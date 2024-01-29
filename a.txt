@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 aaaaa 3
 444 new 수정1
+=======
+aaaaa 3456 main 수정 
+>>>>>>> main
