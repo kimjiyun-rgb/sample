@@ -1,3 +1,4 @@
 aaaaa 3456 main 한 번
 aaaaa 3456 new 등록
 왼쪽에서 수정
+오른쪽에서 수정
